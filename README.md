@@ -50,7 +50,7 @@
         <div class="flex justify-between items-center mb-2">
             <div>
                 <h1 class="text-xl font-black text-red-500 italic leading-none">ACLS 2025</h1>
-                <p class="text-[9px] text-slate-500 font-bold mt-1 uppercase">NIRUN SUWANNACHOT</p>
+                <p class="text-[9px] text-slate-500 font-bold mt-1 uppercase"></p>
             </div>
             <div class="text-right">
                 <p class="text-[8px] text-slate-500 font-bold uppercase">Total Time</p>
