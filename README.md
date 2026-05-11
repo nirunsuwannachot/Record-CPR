@@ -129,7 +129,7 @@
                 <div class="bg-rose-600 text-white flex-1 py-1 rounded-xl text-center"><p class="text-[7px] uppercase mt-1">Defib</p><p id="dash-shock" class="text-xl font-black">0</p></div>
                 <div class="bg-blue-600 text-white flex-1 py-1 rounded-xl text-center"><p class="text-[7px] uppercase mt-1">Epi</p><p id="dash-epi" class="text-xl font-black">0</p></div>
             </div>
-            <button onclick="showSummary('DEAD')" class="flex-1 bg-slate-800 text-white py-4 rounded-xl font-black text-[9px] uppercase">DEAD</button>
+            <button onclick="showSummary('STOP CPR')" class="flex-1 bg-slate-800 text-white py-4 rounded-xl font-black text-[9px] uppercase">STOP CPR</button>
         </div>
     </div>
 
