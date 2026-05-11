@@ -101,10 +101,10 @@
             <div class="grid grid-cols-3 gap-1.5 mb-1.5">
                 <button onclick="recordDefib()" class="drug-btn border-2 border-rose-500 text-rose-600 bg-rose-50 italic">DEFIB 200J</button>
                 <button onclick="recordEpi()" class="drug-btn bg-blue-600 text-white shadow-md">EPINEPHRINE</button>
-                <button onclick="recordAction('Amiodarone 300mg')" class="drug-btn border-2 border-purple-500 text-purple-600">AMIO 300</button>
+                <button onclick="recordAction('Amiodarone 300mg')" class="drug-btn border-2 border-purple-500 text-purple-600">AMIODARONE 300</button>
             </div>
             <div class="grid grid-cols-2 gap-1.5">
-                <button onclick="recordAction('Amiodarone 150mg')" class="drug-btn bg-slate-100 border border-slate-300 text-slate-700">AMIO 150</button>
+                <button onclick="recordAction('Amiodarone 150mg')" class="drug-btn bg-slate-100 border border-slate-300 text-slate-700">AMIODARONE 150</button>
                 <button onclick="recordAction('Advanced Airway')" class="drug-btn bg-orange-50 border border-orange-200 text-orange-700 italic">ADV AIRWAY</button>
             </div>
         </div>
