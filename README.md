@@ -57,7 +57,7 @@
         <div class="p-3 bg-slate-900 text-white shadow-xl">
             <div class="flex justify-between items-center mb-2">
                 <div>
-                    <h1 class="text-xl font-black text-rose-500 italic leading-none">ACLS PRO 2026</h1>
+                    <h1 class="text-xl font-black text-rose-500 italic leading-none">ACLS2025</h1>
                 </div>
                 <div class="text-right">
                     <p class="text-[8px] text-slate-500 font-bold uppercase">Total Time</p>
